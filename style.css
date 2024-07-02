@@ -1,3 +1,11 @@
 *{
     background-color: rgba(44, 100, 219, 0.774);
 }
+
+h1{
+    color: rgba(8, 8, 87, 0.986);
+    font-family: "Bona Nova SC";
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+}
