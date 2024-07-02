@@ -8,4 +8,9 @@ h1{
     font-size: 60px;
     text-align: center;
     font-weight: 700;
+    cursor: pointer;
+}
+
+h1:hover{
+    color: rgba(64, 64, 92, 0.986);
 }
